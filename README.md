@@ -1,6 +1,7 @@
 <h1 align="center">Hola mi nombre es Antonela Scotto</h1>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmdrcnBnbjZjdHp1NXdyMGxkMXo2eXY4dzh4aTRnNWMzZ2N0OGdheSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lP8ezu4iNVmZYOZn3j/giphy.gif">
 <h3 align="center">Soy una estudiante de programación!</h3>
-<iframe src="https://giphy.com/embed/lP8ezu4iNVmZYOZn3j" width="480" height="388" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/gaming-online-friends-lP8ezu4iNVmZYOZn3j">via GIPHY</a></p>
+
 - 🌱 Estoy estudiando Python **en Centro Politecnico Superior Malvinas Argentinas**
 
 - 📫 Como contactarme **antonelascotto@gmail.com**
