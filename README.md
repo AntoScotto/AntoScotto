@@ -1,5 +1,9 @@
 <h1 align="center">Hola mi nombre es Antonela Scotto</h1>
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmdrcnBnbjZjdHp1NXdyMGxkMXo2eXY4dzh4aTRnNWMzZ2N0OGdheSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lP8ezu4iNVmZYOZn3j/giphy.gif">
+
+<div class= "header" align="center">
+  <img width="350"
+    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmdrcnBnbjZjdHp1NXdyMGxkMXo2eXY4dzh4aTRnNWMzZ2N0OGdheSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lP8ezu4iNVmZYOZn3j/giphy.gif" >
+</div>
 <h3 align="center">Soy una estudiante de programación!</h3>
 
 - 🌱 Estoy estudiando Python **en Centro Politecnico Superior Malvinas Argentinas**
