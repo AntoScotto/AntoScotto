@@ -8,7 +8,6 @@
 
 - 🌱 Estoy estudiando Python **en Centro Politecnico Superior Malvinas Argentinas**
 
-- 📫 Como contactarme **antonelascotto@gmail.com**
 
 - ⚡ Fun fact **amo los gatos y la nieve**
 
