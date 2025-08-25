@@ -6,7 +6,7 @@
 </div>
 <h3 align="center">Soy estudiante de programación!</h3>
 
-- 🌱 Estoy estudiando Python **en Centro Politecnico Superior Malvinas Argentinas**
+- 🌱 Estoy estudiando Tec. Ciencia de Datos e IA **en Centro Politecnico Superior Malvinas Argentinas**
 
 
 - ⚡ Fun fact **amo los gatos y la nieve**
